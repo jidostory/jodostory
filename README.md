@@ -1,2 +1,0 @@
-# jodostory
-Created with CodeSandbox
